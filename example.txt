@@ -8,9 +8,4 @@ i am a cse student
 new commit man
 doing cse
 just edited the file
-Nah
-H
-N
-Hnf
-N
-N
+learning SCM
