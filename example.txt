@@ -5,7 +5,7 @@ i am doing a new commit
 i am trying to learn SCM
 i am learning to commit things
 i am a cse student
-Gh
+new commit man
 Tt
 Htghhfh
 just edited the file
