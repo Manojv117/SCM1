@@ -3,7 +3,7 @@ hello
 i am student in amity
 i am doing a new commit
 i am trying to learn SCM
-ekjbk
+i am learning to commit things
 mhbjbh
 Kuhiugbjkh
 Fgtdhtf
