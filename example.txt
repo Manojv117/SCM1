@@ -2,7 +2,7 @@ hi
 hello 
 i am student in amity
 i am doing a new commit
-ejhkwd
+i am trying to learn SCM
 ekjbk
 mhbjbh
 Kuhiugbjkh
