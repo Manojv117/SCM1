@@ -1,6 +1,7 @@
 hi 
 hello 
-i am stude
+i am student in amity
+i am doing a new commit
 ejhkwd
 ekjbk
 mhbjbh
