@@ -9,5 +9,9 @@
   printf("number is evn");
  else
   printf("number is odd);
+if()
+ else
+{}
+
  retun 0;
 }
