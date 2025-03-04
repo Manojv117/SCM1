@@ -11,7 +11,9 @@
   printf("number is odd);
 if()
  else
-{}
+
+{ printf("entered is an alphabet")
+}
 
  retun 0;
 }
