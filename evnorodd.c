@@ -1,13 +1,13 @@
-// finding out number is evn or odd
+i// finding out number is evn or odd
 
 #include<stdio.h>
  int main(){
  int num;
   printf(" ENter the number");
   scanf("%d,&num);
- if(num%2==0)
-  printf("number is evn");
- else
-  printf("number is odd);
+  print(odd or even);
+  a=9 is odd
+  b=10 is even 
+  show this only 
  retun 0;
 }
